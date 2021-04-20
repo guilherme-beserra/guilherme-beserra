@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guilherme-beserra
-- 👀 I’m interested in Businesse Inteligence and Data Science.
+- 👀 I’m interested in Business Inteligence and Data Science.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on my job at Receita Federal.
 - 📫 How to reach me: guilherme.beserra@gmail.com
